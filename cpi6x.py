@@ -1,7 +1,7 @@
 #1/usr/bin/env python
 import time
 import smbus
-
+import time
 #********************************************
 # Custard Pi 6 resources v2.0 9th Sept 2013
 
