@@ -1,5 +1,1 @@
 (((((TAGS FILE FOR LOGGING TAGS. DO NOT EDIT ONLY READ)))))
-
-INFO:root:c189fa1e:James Whybrow (New Fob):Added at 19-02-2016 on the 16:18:26
-INFO:root:7177860f:James Whybrow (Old Card):Added at 19-02-2016 on the 19:36:42
-INFO:root:34f21965:SPARE CARD:Added at 19-02-2016 on the 19:46:36
